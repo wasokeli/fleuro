@@ -1,0 +1,365 @@
+{
+    "debug": false,
+    "identifier": "com.kelseyhigham.gameboyfilter",
+    "landscape": {
+        "assets": {
+            "iPad": "landscape~ipad.png",
+            "iPad Retina": "landscape~ipad@2x.png",
+            "iPhone": "landscape.png",
+            "iPhone Widescreen": "landscape@R4.png"
+        },
+        "layouts": {
+            "iPad": {
+                "a": {
+                    "extendedEdges": {
+                        "bottom": 20,
+                        "left": 20,
+                        "right": 32,
+                        "top": 20
+                    },
+                    "height": 90,
+                    "width": 90,
+                    "x": 902,
+                    "y": 550
+                },
+                "b": {
+                    "height": 90,
+                    "width": 90,
+                    "x": 784,
+                    "y": 603
+                },
+                "dpad": {
+                    "extendedEdges": {
+                        "bottom": 20,
+                        "left": 22,
+                        "right": 20,
+                        "top": 20
+                    },
+                    "height": 180,
+                    "width": 180,
+                    "x": 22,
+                    "y": 515
+                },
+                "extendedEdges": {
+                    "bottom": 20,
+                    "left": 20,
+                    "right": 20,
+                    "top": 20
+                },
+                "menu": {
+                    "height": 31,
+                    "width": 62,
+                    "x": 481,
+                    "y": 588
+                },
+                "screen": {
+                    "height": 457,
+                    "width": 508,
+                    "x": 258,
+                    "y": 0
+                },
+                "select": {
+                    "height": 31,
+                    "width": 62,
+                    "x": 408,
+                    "y": 678
+                },
+                "start": {
+                    "height": 31,
+                    "width": 62,
+                    "x": 554,
+                    "y": 678
+                }
+            },
+            "iPhone": {
+                "a": {
+                    "extendedEdges": {
+                        "right": 13
+                    },
+                    "height": 57,
+                    "width": 57,
+                    "x": 410,
+                    "y": 206
+                },
+                "b": {
+                    "extendedEdges": {
+                        "bottom": 15
+                    },
+                    "height": 57,
+                    "width": 57,
+                    "x": 344,
+                    "y": 248
+                },
+                "dpad": {
+                    "extendedEdges": {
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15,
+                        "top": 15
+                    },
+                    "height": 112,
+                    "width": 112,
+                    "x": 5,
+                    "y": 199
+                },
+                "extendedEdges": {
+                    "bottom": 7,
+                    "left": 7,
+                    "right": 7,
+                    "top": 7
+                },
+                "menu": {
+                    "extendedEdges": {
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15,
+                        "top": 15
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 15,
+                    "y": 15
+                },
+                "screen": {
+                    "height": 216,
+                    "width": 240,
+                    "x": 120,
+                    "y": 0
+                },
+                "select": {
+                    "extendedEdges": {
+                        "bottom": 19
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 186,
+                    "y": 281
+                },
+                "start": {
+                    "extendedEdges": {
+                        "bottom": 19
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 253,
+                    "y": 281
+                }
+            },
+            "iPhone Widescreen": {
+                "a": {
+                    "extendedEdges": {
+                        "right": 8
+                    },
+                    "height": 57,
+                    "width": 57,
+                    "x": 503,
+                    "y": 206
+                },
+                "b": {
+                    "extendedEdges": {
+                        "bottom": 14
+                    },
+                    "height": 57,
+                    "width": 57,
+                    "x": 437,
+                    "y": 249
+                },
+                "dpad": {
+                    "extendedEdges": {
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 7,
+                        "top": 15
+                    },
+                    "height": 112,
+                    "width": 112,
+                    "x": 5,
+                    "y": 197
+                },
+                "extendedEdges": {
+                    "bottom": 7,
+                    "left": 7,
+                    "right": 7,
+                    "top": 7
+                },
+                "menu": {
+                    "extendedEdges": {
+                        "bottom": 16,
+                        "left": 16,
+                        "right": 16,
+                        "top": 16
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 15,
+                    "y": 16
+                },
+                "screen": {
+                    "height": 216,
+                    "width": 240,
+                    "x": 164,
+                    "y": 0
+                },
+                "select": {
+                    "extendedEdges": {
+                        "bottom": 16
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 230,
+                    "y": 284
+                },
+                "start": {
+                    "extendedEdges": {
+                        "bottom": 16
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 297,
+                    "y": 284
+                }
+            }
+        }
+    },
+    "name": "Game Boy filter",
+    "portrait": {
+        "assets": {
+            "iPad": "portrait~ipad.png",
+            "iPad Retina": "portrait~ipad@2x.png",
+            "iPhone": "portrait.png"
+        },
+        "layouts": {
+            "iPad": {
+                "a": {
+                    "extendedEdges": {
+                        "bottom": 20,
+                        "left": 20,
+                        "right": 30,
+                        "top": 20
+                    },
+                    "height": 71,
+                    "width": 71,
+                    "x": 667,
+                    "y": 131
+                },
+                "b": {
+                    "height": 71,
+                    "width": 71,
+                    "x": 566,
+                    "y": 156
+                },
+                "dpad": {
+                    "extendedEdges": {
+                        "bottom": 20,
+                        "left": 30,
+                        "right": 20,
+                        "top": 20
+                    },
+                    "height": 143,
+                    "width": 143,
+                    "x": 30,
+                    "y": 105
+                },
+                "extendedEdges": {
+                    "bottom": 20,
+                    "left": 20,
+                    "right": 20,
+                    "top": 20
+                },
+                "menu": {
+                    "height": 24,
+                    "width": 49,
+                    "x": 359,
+                    "y": 108
+                },
+                "select": {
+                    "height": 24,
+                    "width": 49,
+                    "x": 286,
+                    "y": 269
+                },
+                "start": {
+                    "height": 24,
+                    "width": 49,
+                    "x": 432,
+                    "y": 268
+                }
+            },
+            "iPhone": {
+                "a": {
+                    "height": 56,
+                    "width": 56,
+                    "x": 261,
+                    "y": 88
+                },
+                "b": {
+                    "height": 56,
+                    "width": 56,
+                    "x": 191,
+                    "y": 114
+                },
+                "dpad": {
+                    "extendedEdges": {
+                        "bottom": 15,
+                        "left": 15,
+                        "right": 15,
+                        "top": 15
+                    },
+                    "height": 110,
+                    "width": 110,
+                    "x": 5,
+                    "y": 62
+                },
+                "extendedEdges": {
+                    "bottom": 7,
+                    "left": 7,
+                    "right": 7,
+                    "top": 7
+                },
+                "menu": {
+                    "extendedEdges": {
+                        "bottom": 16,
+                        "left": 7,
+                        "right": 7,
+                        "top": 7
+                    },
+                    "height": 21,
+                    "width": 39,
+                    "x": 5,
+                    "y": 203
+                },
+                "screen": {
+                    "height": 288,
+                    "width": 320,
+                    "x": 0,
+                    "y": 20
+                },
+                "select": {
+                    "extendedEdges": {
+                        "bottom": 17,
+                        "left": 7,
+                        "right": 7,
+                        "top": 7
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 108,
+                    "y": 203
+                },
+                "start": {
+                    "extendedEdges": {
+                        "bottom": 17,
+                        "left": 7,
+                        "right": 7,
+                        "top": 7
+                    },
+                    "height": 20,
+                    "width": 39,
+                    "x": 174,
+                    "y": 203
+                }
+            }
+        },
+        "translucent": true
+    }
+}

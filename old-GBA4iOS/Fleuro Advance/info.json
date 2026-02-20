@@ -1,0 +1,167 @@
+{
+    "debug": false,
+    "identifier": "com.kelseyhigham.fleuroadvance",
+    "name": "fleuro Advance",
+    "landscape": {
+        "assets": {
+            "iPhone": "landscape@R4.png"
+        },
+        "layouts": {
+            "iPhone": {
+                "a": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 524,
+                    "y": 168
+                },
+                "b": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 428,
+                    "y": 168
+                },
+                "ab": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 476,
+                    "y": 168
+                },
+                "l": {
+                    "height": 96,
+                    "width": 96,
+                    "x": 8,
+                    "y": 24,
+                    "extendedEdges": {
+                        "left": 8,
+                        "top": 24,
+                        "right": 48,
+                        "bottom": 24
+                    }
+                },
+                "r": {
+                    "height": 96,
+                    "width": 96,
+                    "x": 464,
+                    "y": 24,
+                    "extendedEdges": {
+                        "left": 48,
+                        "top": 24,
+                        "right": 8,
+                        "bottom": 24
+                    }
+                },
+                "dpad": {
+                    "height": 144,
+                    "width": 144,
+                    "x": 0,
+                    "y": 168
+                },
+                "menu": {
+                    "height": 216,
+                    "width": 264,
+                    "x": 156,
+                    "y": 24
+                },
+                "screen": {
+                    "height": 240,
+                    "width": 360,
+                    "x": 104,
+                    "y": 0
+                },
+                "select": {
+                    "height": 48,
+                    "width": 48,
+                    "x": 212,
+                    "y": 264,
+                    "extendedEdges": {
+                        "left": 48,
+                        "top": 24,
+                        "right": 0,
+                        "bottom": 8
+                    }
+                },
+                "start": {
+                    "height": 48,
+                    "width": 48,
+                    "x": 308,
+                    "y": 264,
+                    "extendedEdges": {
+                        "left": 0,
+                        "top": 24,
+                        "right": 48,
+                        "bottom": 8
+                    }
+                }
+            }
+        }
+    },
+    "portrait": {
+        "assets": {
+            "iPhone": "portrait@R4.png"
+        },
+        "layouts": {
+            "iPhone": {
+                "a": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 272,
+                    "y": 280
+                },
+                "b": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 176,
+                    "y": 280
+                },
+                "ab": {
+                    "height": 144,
+                    "width": 48,
+                    "x": 224,
+                    "y": 280
+                },
+                "dpad": {
+                    "height": 144,
+                    "width": 144,
+                    "x": 0,
+                    "y": 280
+                },
+                "menu": {
+                    "height": 160,
+                    "width": 128,
+                    "x": 96,
+                    "y": 40
+                },
+                "screen": {
+                    "height": 160,
+                    "width": 240,
+                    "x": 40,
+                    "y": 40
+                },
+                "select": {
+                    "height": 96,
+                    "width": 96,
+                    "x": 0,
+                    "y": 472
+                },
+                "start": {
+                    "height": 96,
+                    "width": 96,
+                    "x": 224,
+                    "y": 472
+                },
+                "l": {
+                    "height": 240,
+                    "width": 96,
+                    "x": 0,
+                    "y": 0
+                },
+                "r": {
+                    "height": 240,
+                    "width": 96,
+                    "x": 224,
+                    "y": 0
+                }
+            }
+        }
+    }
+}
