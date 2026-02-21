@@ -48,9 +48,12 @@
               }
             },
             {
-              "inputs": [
-                "dpad"
-              ],
+              "inputs": {
+                "up": "up",
+                "down": "down",
+                "left": "left",
+                "right": "right"
+              },
               "frame": {
                 "height": 144,
                 "width": 144,
@@ -90,7 +93,7 @@
                 "x": 176,
                 "y": 496
               }
-            },
+            }
           ],
           "mappingSize" : {
             "width" : 320,
