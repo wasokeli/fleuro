@@ -1,103 +1,103 @@
 {
-  "name": "Fleuro 2014",
-  "identifier": "com.kelseyhigham.fleuro",
-  "gameTypeIdentifier" : "com.rileytestut.delta.game.gbc",
   "debug": true,
+  "gameTypeIdentifier": "com.rileytestut.delta.game.gbc",
+  "identifier": "com.kelseyhigham.fleuro",
+  "name": "Fleuro 2014",
   "representations": {
     "iphone": {
       "edgeToEdge": {
         "portrait": {
           "assets": {
-            "small": "portrait@R4.png",
+            "large": "portrait@R4.png",
             "medium": "portrait@R4.png",
-            "large": "portrait@R4.png"
+            "small": "portrait@R4.png"
           },
           "items": [
             {
-              "inputs": [
-                "a"
-              ],
               "frame": {
                 "height": 144,
                 "width": 48,
                 "x": 272,
                 "y": 320
-              }
+              },
+              "inputs": [
+                "a"
+              ]
             },
             {
-              "inputs": [
-                "b"
-              ],
               "frame": {
                 "height": 144,
                 "width": 48,
                 "x": 176,
                 "y": 320
-              }
+              },
+              "inputs": [
+                "b"
+              ]
             },
             {
-              "inputs": [
-                "a",
-                "b"
-              ],
               "frame": {
                 "height": 144,
                 "width": 48,
                 "x": 224,
                 "y": 320
-              }
+              },
+              "inputs": [
+                "a",
+                "b"
+              ]
             },
             {
-              "inputs": {
-                "up": "up",
-                "down": "down",
-                "left": "left",
-                "right": "right"
-              },
               "frame": {
                 "height": 144,
                 "width": 144,
                 "x": 0,
                 "y": 320
+              },
+              "inputs": {
+                "down": "down",
+                "left": "left",
+                "right": "right",
+                "up": "up"
               }
             },
             {
-              "inputs": [
-                "menu"
-              ],
               "frame": {
                 "height": 256,
                 "width": 320,
                 "x": 0,
                 "y": 32
-              }
+              },
+              "inputs": [
+                "menu"
+              ]
             },
             {
-              "inputs": [
-                "select"
-              ],
               "frame": {
                 "height": 48,
                 "width": 144,
                 "x": 0,
                 "y": 496
-              }
+              },
+              "inputs": [
+                "select"
+              ]
             },
             {
-              "inputs": [
-                "start"
-              ],
               "frame": {
                 "height": 48,
                 "width": 144,
                 "x": 176,
                 "y": 496
-              }
+              },
+              "inputs": [
+                "start"
+              ]
             }
           ],
-          "mappingSize" : {
-            "width" : 320,
-            "height" : 568
+          "mappingSize": {
+            "height": 568,
+            "width": 320
           },
           "screens": [
             {
@@ -110,9 +110,7 @@
             }
           ]
         }
-
       }
-
     }
   }
 }
