@@ -1,110 +1,110 @@
 {
-  "debug": true,
-  "gameTypeIdentifier": "com.rileytestut.delta.game.gbc",
-  "identifier": "com.kelseyhigham.fleuro",
-  "name": "Fleuro 2014",
+  "debug": true, 
+  "gameTypeIdentifier": "com.rileytestut.delta.game.gbc", 
+  "identifier": "com.kelseyhigham.fleuro", 
+  "name": "Fleuro 2014", 
   "representations": {
     "iphone": {
       "edgeToEdge": {
         "portrait": {
           "assets": {
-            "large": "portrait@R4.png",
-            "medium": "portrait@R4.png",
+            "large": "portrait@R4.png", 
+            "medium": "portrait@R4.png", 
             "small": "portrait@R4.png"
-          },
+          }, 
           "items": [
             {
               "frame": {
-                "height": 144,
-                "width": 48,
-                "x": 272,
+                "height": 144, 
+                "width": 48, 
+                "x": 272, 
                 "y": 320
-              },
+              }, 
               "inputs": [
                 "a"
               ]
-            },
+            }, 
             {
               "frame": {
-                "height": 144,
-                "width": 48,
-                "x": 176,
+                "height": 144, 
+                "width": 48, 
+                "x": 176, 
                 "y": 320
-              },
+              }, 
               "inputs": [
                 "b"
               ]
-            },
+            }, 
             {
               "frame": {
-                "height": 144,
-                "width": 48,
-                "x": 224,
+                "height": 144, 
+                "width": 48, 
+                "x": 224, 
                 "y": 320
-              },
+              }, 
               "inputs": [
-                "a",
+                "a", 
                 "b"
               ]
-            },
+            }, 
             {
               "frame": {
-                "height": 144,
-                "width": 144,
-                "x": 0,
+                "height": 144, 
+                "width": 144, 
+                "x": 0, 
                 "y": 320
-              },
+              }, 
               "inputs": {
-                "down": "down",
-                "left": "left",
-                "right": "right",
+                "down": "down", 
+                "left": "left", 
+                "right": "right", 
                 "up": "up"
               }
-            },
+            }, 
             {
               "frame": {
-                "height": 256,
-                "width": 320,
-                "x": 0,
+                "height": 256, 
+                "width": 320, 
+                "x": 0, 
                 "y": 32
-              },
+              }, 
               "inputs": [
                 "menu"
               ]
-            },
+            }, 
             {
               "frame": {
-                "height": 48,
-                "width": 144,
-                "x": 0,
+                "height": 48, 
+                "width": 144, 
+                "x": 0, 
                 "y": 496
-              },
+              }, 
               "inputs": [
                 "select"
               ]
-            },
+            }, 
             {
               "frame": {
-                "height": 48,
-                "width": 144,
-                "x": 176,
+                "height": 48, 
+                "width": 144, 
+                "x": 176, 
                 "y": 496
-              },
+              }, 
               "inputs": [
                 "start"
               ]
             }
-          ],
+          ], 
           "mappingSize": {
-            "height": 568,
+            "height": 568, 
             "width": 320
-          },
+          }, 
           "screens": [
             {
               "outputFrame": {
-                "height": 288,
-                "width": 320,
-                "x": 0,
+                "height": 288, 
+                "width": 320, 
+                "x": 0, 
                 "y": 0
               }
             }
