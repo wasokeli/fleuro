@@ -221,6 +221,126 @@
             }, 
             {
               "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 35
+              }, 
+              "inputs": [
+                "up", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 35
+              }, 
+              "inputs": [
+                "up", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 11, 
+                "y": 37
+              }, 
+              "inputs": [
+                "left", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 37
+              }, 
+              "inputs": [
+                "right", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 37
+              }, 
+              "inputs": [
+                "left", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 17, 
+                "y": 37
+              }, 
+              "inputs": [
+                "right", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
                 "bottom": -4, 
                 "top": -4
               }, 
