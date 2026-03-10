@@ -1,0 +1,384 @@
+{
+  "debug": true, 
+  "gameTypeIdentifier": "com.rileytestut.delta.game.snes", 
+  "identifier": "io.github.wasokeli.snes.fleuro-super-picross", 
+  "name": "Fleuro Super Picross", 
+  "representations": {
+    "iphone": {
+      "edgeToEdge": {
+        "portrait": {
+          "assets": {
+            "large": "super-picross.png", 
+            "medium": "super-picross.png", 
+            "small": "super-picross.png"
+          }, 
+          "extendedEdges": {
+            "bottom": 0, 
+            "left": 0, 
+            "right": 0, 
+            "top": 0
+          }, 
+          "items": [
+            {
+              "extendedEdges": {
+                "left": 1, 
+                "top": 1
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 0, 
+                "y": 21
+              }, 
+              "inputs": [
+                "left", 
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "top": 1
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 6, 
+                "x": 2, 
+                "y": 21
+              }, 
+              "inputs": [
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "top": 1
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 8, 
+                "y": 21
+              }, 
+              "inputs": [
+                "right", 
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "left": 2
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 1, 
+                "y": 24
+              }, 
+              "inputs": [
+                "left"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "right": 1
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 5, 
+                "y": 24
+              }, 
+              "inputs": [
+                "right"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 1, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 0, 
+                "y": 28
+              }, 
+              "inputs": [
+                "down", 
+                "left"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 0, 
+                "right": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 6, 
+                "x": 2, 
+                "y": 28
+              }, 
+              "inputs": [
+                "down"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 8, 
+                "y": 28
+              }, 
+              "inputs": [
+                "down", 
+                "right"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "right": 2, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 8, 
+                "x": 11, 
+                "y": 18
+              }, 
+              "inputs": [
+                "a", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "right": 2, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 8, 
+                "width": 4, 
+                "x": 15, 
+                "y": 22
+              }, 
+              "inputs": [
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "left": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 8, 
+                "width": 4, 
+                "x": 11, 
+                "y": 22
+              }, 
+              "inputs": [
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "right": 2
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 15, 
+                "y": 30
+              }, 
+              "inputs": [
+                "start"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 11, 
+                "y": 30
+              }, 
+              "inputs": [
+                "select"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 35
+              }, 
+              "inputs": [
+                "up", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 35
+              }, 
+              "inputs": [
+                "up", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 11, 
+                "y": 37
+              }, 
+              "inputs": [
+                "left", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 37
+              }, 
+              "inputs": [
+                "right", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 37
+              }, 
+              "inputs": [
+                "left", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 17, 
+                "y": 37
+              }, 
+              "inputs": [
+                "right", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 13, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 2, 
+                "x": 15, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": -4, 
+                "top": -4
+              }, 
+              "frame": {
+                "height": 18, 
+                "width": 20, 
+                "x": 0, 
+                "y": 3
+              }, 
+              "inputs": [
+                "menu"
+              ]
+            }
+          ], 
+          "mappingSize": {
+            "height": 43, 
+            "width": 20
+          }, 
+          "screens": [
+            {
+              "outputFrame": {
+                "height": 22.4, 
+                "width": 25.6, 
+                "x": -3.2, 
+                "y": 0.4 
+              }
+            },
+            {
+              "outputFrame": {
+                "height": 7, 
+                "width": 8, 
+                "x": 1, 
+                "y": 33 
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
