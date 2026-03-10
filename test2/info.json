@@ -225,8 +225,8 @@
               }, 
               "frame": {
                 "height": 2, 
-                "width": 2, 
-                "x": 13, 
+                "width": 4, 
+                "x": 11, 
                 "y": 35
               }, 
               "inputs": [
@@ -240,7 +240,7 @@
               }, 
               "frame": {
                 "height": 2, 
-                "width": 2, 
+                "width": 4, 
                 "x": 15, 
                 "y": 35
               }, 
@@ -254,7 +254,7 @@
                 "bottom": 0
               }, 
               "frame": {
-                "height": 2, 
+                "height": 3, 
                 "width": 2, 
                 "x": 11, 
                 "y": 37
@@ -269,7 +269,7 @@
                 "bottom": 0
               }, 
               "frame": {
-                "height": 2, 
+                "height": 3, 
                 "width": 2, 
                 "x": 13, 
                 "y": 37
@@ -284,7 +284,7 @@
                 "bottom": 0
               }, 
               "frame": {
-                "height": 2, 
+                "height": 3, 
                 "width": 2, 
                 "x": 15, 
                 "y": 37
@@ -299,7 +299,7 @@
                 "bottom": 0
               }, 
               "frame": {
-                "height": 2, 
+                "height": 3, 
                 "width": 2, 
                 "x": 17, 
                 "y": 37
@@ -315,9 +315,9 @@
               }, 
               "frame": {
                 "height": 2, 
-                "width": 2, 
-                "x": 13, 
-                "y": 39
+                "width": 4, 
+                "x": 11, 
+                "y": 40
               }, 
               "inputs": [
                 "down", 
@@ -330,9 +330,9 @@
               }, 
               "frame": {
                 "height": 2, 
-                "width": 2, 
+                "width": 4, 
                 "x": 15, 
-                "y": 39
+                "y": 40
               }, 
               "inputs": [
                 "down", 
