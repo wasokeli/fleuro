@@ -1,0 +1,340 @@
+{
+  "debug": false, 
+  "gameTypeIdentifier": "com.rileytestut.delta.game.ds", 
+  "identifier": "io.github.wasokeli.ds.fleuro-test", 
+  "name": "Fleuro DS Test", 
+  "representations": {
+    "iphone": {
+      "edgeToEdge": {
+        "portrait": {
+          "assets": {
+            "large": "ds-test.png", 
+            "medium": "ds-test.png", 
+            "small": "ds-test.png"
+          }, 
+          "extendedEdges": {
+            "bottom": 0, 
+            "left": 0, 
+            "right": 0, 
+            "top": 0
+          }, 
+          "items": [
+            {
+              "extendedEdges": {
+                "bottom": 15, 
+                "left": 1, 
+                "top": 2
+              }, 
+              "frame": {
+                "height": 1, 
+                "width": 6, 
+                "x": 0, 
+                "y": 1
+              }, 
+              "inputs": [
+                "l"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 15, 
+                "right": 1, 
+                "top": 2
+              }, 
+              "frame": {
+                "height": 1, 
+                "width": 6, 
+                "x": 14, 
+                "y": 1
+              }, 
+              "inputs": [
+                "r"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "left": 1
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 0, 
+                "y": 32
+              }, 
+              "inputs": [
+                "left", 
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 6, 
+                "x": 2, 
+                "y": 32
+              }, 
+              "inputs": [
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 8, 
+                "y": 32
+              }, 
+              "inputs": [
+                "right", 
+                "up"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "left": 2
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 1, 
+                "y": 35
+              }, 
+              "inputs": [
+                "left"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "right": 1
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 5, 
+                "y": 35
+              }, 
+              "inputs": [
+                "right"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 1, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 0, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "left"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 0, 
+                "right": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 6, 
+                "x": 2, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "left": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 3, 
+                "width": 2, 
+                "x": 8, 
+                "y": 39
+              }, 
+              "inputs": [
+                "down", 
+                "right"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "right": 2, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 1, 
+                "width": 8, 
+                "x": 11, 
+                "y": 32
+              }, 
+              "inputs": [
+                "a", 
+                "x"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "right": 2, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 15, 
+                "y": 33
+              }, 
+              "inputs": [
+                "a"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "left": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 11, 
+                "y": 33
+              }, 
+              "inputs": [
+                "x"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "right": 2, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 15, 
+                "y": 37
+              }, 
+              "inputs": [
+                "b"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "left": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 4, 
+                "width": 4, 
+                "x": 11, 
+                "y": 37
+              }, 
+              "inputs": [
+                "y"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1, 
+                "right": 2
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 4, 
+                "x": 15, 
+                "y": 41
+              }, 
+              "inputs": [
+                "start"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 1
+              }, 
+              "frame": {
+                "height": 2, 
+                "width": 4, 
+                "x": 11, 
+                "y": 41
+              }, 
+              "inputs": [
+                "select"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": -1, 
+                "left": -7, 
+                "right": -7, 
+                "top": -1
+              }, 
+              "frame": {
+                "height": 15, 
+                "width": 20, 
+                "x": 0, 
+                "y": 3
+              }, 
+              "inputs": [
+                "menu"
+              ]
+            }, 
+            {
+              "extendedEdges": {
+                "bottom": 0, 
+                "left": 0, 
+                "right": 0, 
+                "top": 0
+              }, 
+              "frame": {
+                "height": 15, 
+                "width": 20, 
+                "x": 0, 
+                "y": 17
+              }, 
+              "inputs": {
+                "x": "touchScreenX", 
+                "y": "touchScreenY"
+              }
+            }
+          ], 
+          "mappingSize": {
+            "height": 43, 
+            "width": 20
+          }, 
+          "screens": [
+            {
+              "outputFrame": {
+                "height": 30, 
+                "width": 20, 
+                "x": 0, 
+                "y": 2
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}
